@@ -324,6 +324,10 @@ address {
 
 } 
 
+.close-btn > svg {
+    fill: #000;
+}
+
 /* =====MODAL WINDOW END===== */
 
 /* =====HERO WITH BUTTON END===== */
