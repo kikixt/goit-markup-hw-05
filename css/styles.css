@@ -327,7 +327,7 @@ address {
 } 
 
 .close-btn > svg {
-    fill: #000;
+    fill: rgb(0, 0, 0);
 }
 
 /* =====MODAL WINDOW END===== */
