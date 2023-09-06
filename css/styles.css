@@ -294,7 +294,7 @@ address {
     height: 582px;
     border-radius: 4px;
 
-    transition: transform 300ms ease-in-out 200ms, opacity 300ms ease-in-out 200ms;
+    transition: transform 300ms ease-in-out, opacity 300ms ease-in-out;
 }
 
 /* початковій стан елемента перед анімацією */
